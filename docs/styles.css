@@ -155,18 +155,6 @@ h2 {
   color: var(--cyan);
 }
 
-.cta-link.primary {
-  border-color: transparent;
-  color: #141018;
-  background: var(--title);
-}
-
-.cta-link.primary:hover,
-.cta-link.primary:focus-visible {
-  color: #141018;
-  background: var(--cyan);
-}
-
 .controls {
   display: grid;
   gap: 14px;
